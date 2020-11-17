@@ -1,0 +1,4 @@
+protobuf==3.6.1
+grpcio==1.26.0
+grpcio-tools==1.26.0
+https://github.com/DistPub/python-etcd3/archive/v0.11.1_patch3.tar.gz#egg=etcd3
