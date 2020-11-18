@@ -4,5 +4,5 @@ A demo for learning client side load balancer on gRPC.
 
 1. Smite Chow(@lovemyliwu)
 1. Zhao Hang(@zhaohangs)
-1. Wang Qianqian(N/A)
+1. Wang Qianqian(@shmily3929)
 
